@@ -54,8 +54,9 @@ Do not add your name to this list - it is maintained by the organizers based on 
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
 
-1. Sharon Peled, Brigham and Women's Hospital and Harvard Medical School
-1. Davide Punzo, Kapteyn Astronomical Institute, University of Groningen
-1. Csaba Pinter, Queens University   
-1. Filip Szczepankiewicz, Brigham and Women's Hospital and Harvard Medical School
-1. Tina Kapur, Brigham and Women's Hospital and Harvard Medical School
+1. Peled, Sharon (@speled) - Brigham and Women’s Hospital and Harvard Medical School - speled@bwh.harvard.edu - EEUU 
+1. Davide Punzo, Kapteyn Astronomical Institute, University of Groningen - punzodavide@hotmail.it - Italy
+1. Pinter, Csaba (@cpinter) - Queen’s University - csaba.pinter@queensu.ca - Canada   
+1. Filip Szczepankiewicz - Brigham and Women's Hospital and Harvard Medical School - filip.szczepankiewicz@gmail.com - EEUU
+1. Kapur, Tina (@tkapur) - Brigham and Women’s Hospital and Harvard Medical School - tkapur@bwh.harvard.edu - EEUU
+
